@@ -17,7 +17,7 @@ interface ResumeCardProps {
   href?: string;
   badges?: readonly string[];
   period: string;
-  description?: string | string[]; // Modified to accept both string and array of strings
+  description?: string | readonly string[]; // Modified to accept both string and array of strings
 }
 
 export const ResumeCard = ({
