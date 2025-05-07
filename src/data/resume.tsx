@@ -11,7 +11,7 @@ export const DATA = {
     "Full-stack engineer with 6 years of experience building enterprise-grade web applications",
   summary:
     "I’m a developer fluent in both pixels and protocols — equally at home designing intuitive frontends and engineering resilient backend systems. With experience building enterprise-grade applications at Verizon and Toyota, I focus on delivering solutions that are user-centric, scalable, and built to perform. When I’m not deep in JavaScript or Java, I’m probably fine-tuning architectures, learning something new, or turning edge cases into clean code. Driven, detail-oriented, and always up for a challenge.",
-  avatarUrl: "/me.jpg",
+  avatarUrl: "/me1.png",
   skills: [
     "REACT",
     "NEXTJs",
