@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Full-stack engineer with 5 years of experience building enterprise-grade web applications",
   summary:
-    "I’m a developer fluent in both pixels and protocols. With sleek interfaces and fine-tuned services, I focus on bridging user needs with rock-solid performance, front to back. When I’m not elbow-deep in JavaScript or Java, I’m probably debugging life itself (and winning). A workaholic by nature and always excited to build something amazing!",
+    "I’m a developer fluent in both pixels and protocols — equally at home designing intuitive frontends and engineering resilient backend systems. With experience building enterprise-grade applications at Verizon and Toyota, I focus on delivering solutions that are user-centric, scalable, and built to perform. When I’m not deep in JavaScript or Java, I’m probably fine-tuning architectures, learning something new, or turning edge cases into clean code. Driven, detail-oriented, and always up for a challenge.",
   avatarUrl: "/me.png",
   skills: [
     "REACT",
@@ -102,15 +102,16 @@ export const DATA = {
       description: [
         "Full-stack engineer for Verizon B2B enterprise applications serving 32 million connections",
         "Developed pricing and promotion engines driving 674K new business lines in the first 2 weeks of launch",
-        "Implemented a conflict resolution algorithm and recommendation system reducing 14K cart failures weekly",
-        "Drove the migration of legacy ATG refund services to optimized reactive microservices increasing 7x throughput",
-        "Engineered a 24-hour locker system with real-time status streaming, reducing customer service intervention by 80%",
+        "Implemented a conflict resolution algorithm and recommendation system reducing 5K cart failures weekly",
+        "Drove the migration of legacy ATG refund services to optimized reactive microservices increasing 4x throughput",
+        "Built a 24-hour locker system with React kiosks enabling real-time status streaming, cutting customer service workload by 40%",
         "Optimized telematics ordering platform, achieved 50% reduction in  data retrieval times through enhanced Redis caching",
-        "Six-time Developer in Spotlight awardee, recognized for driving innovation and operational efficiency",
+        "Served as SME on multiple modules driving CI/CD practices, automated testing, peer-reviewed quality gates & agile iterative releases",
+        "Recognized for leading high-impact efforts, achieving system reliability excellence and improving operational efficiency",
       ],
     },
     {
-      company: "Toyota Motors North America",
+      company: "Toyota Motors North America(Infosys)",
       href: "https://www.toyota.com",
       badges: [],
       location: "",
@@ -119,9 +120,10 @@ export const DATA = {
       start: "Feb 2018",
       end: "Aug 2020",
       description: [
-        "Built responsive React UIs for Toyota’s shipping management and lease applications",
-        "Optimized Java batch processes and integrated SFTP secure data transfers reducing manual processing time by 65%",
-        "Implemented AWS Lambda functions for event-driven architecture, automating back-end workflow",
+        "Migrated 20+ microservices to Spring 5 and Hibernate 5 enhancing annotation-based lifecycle control, enabling reactive-ready architecture, and simplifying AOP, validation, and transaction management across services",
+        "Optimized responsive React UIs with Redux & virtualization to minimize re-renders achieving sub-1s key interactions response times",
+        "Eliminated processing inefficiencies restructuring Java batch jobs & SFTP transfer layers slashing manual processing time by 65%",
+        "Built AWS Lambda workflows with DLQ integration, orchestrated via Step Functions, CloudWatch monitored & met reliability SLOs"
       ],
     },
   ],
